@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/protfolio/static/css/main.44792aa7.css",
-    "main.js": "/protfolio/static/js/main.e33e3af9.js",
+    "main.js": "/protfolio/static/js/main.5eb9df7a.js",
     "static/media/educity.png": "/protfolio/static/media/educity.e4fed2dd243cc2757508.png",
     "static/media/instagram.png": "/protfolio/static/media/instagram.e719d8b29f452a16302d.png",
     "static/media/raju.jpg": "/protfolio/static/media/raju.e93de62b9d8c2698ec62.jpg",
@@ -11,10 +11,10 @@
     "static/media/js.png": "/protfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/protfolio/index.html",
     "main.44792aa7.css.map": "/protfolio/static/css/main.44792aa7.css.map",
-    "main.e33e3af9.js.map": "/protfolio/static/js/main.e33e3af9.js.map"
+    "main.5eb9df7a.js.map": "/protfolio/static/js/main.5eb9df7a.js.map"
   },
   "entrypoints": [
     "static/css/main.44792aa7.css",
-    "static/js/main.e33e3af9.js"
+    "static/js/main.5eb9df7a.js"
   ]
 }
